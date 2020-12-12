@@ -3,4 +3,4 @@ Portfolio
 
 [WeatherForeCast API](https://github.com/senthildsc/Weather-Forecast-from-OpenWeather)
 
-![](/main/WeatherImage.JPG)
+![text](https://github.com/senthildsc/Portfolio/blob/main/WeatherImage.JPG)
