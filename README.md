@@ -3,4 +3,4 @@ Portfolio
 
 [WeatherForeCast API](https://github.com/senthildsc/Weather-Forecast-from-OpenWeather)
 
-![text](/main/WeatherImage.png)
+Access current weather data for any location including over 200,000 cities
