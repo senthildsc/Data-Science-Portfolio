@@ -32,3 +32,8 @@ In addition, the world of online travel has become a highly competitive space wh
 comparing, matching, and sharing. For this assignment, we aim to create the optimal hotel recommendations for Expedia’s users that are searching for a hotel to book.
 Predict which “hotel cluster” the user is likely to book, given his (or her) search details.
 
+------------------------------------------------------------------------------------------
+
+[Customer Behavior](https://github.com/senthildsc/Customer-Behavior.git)
+This article discusses our analysis of customer behavior data provided for an E-commerce site. We begin by discussing our motivations for this project. We will then discuss the data set and its features. Then our initial data exploration and feature engineering. Finally we will describe the models we used to predict if a site visitor will make a purchase or will not, the results of such models, and the insights we gathered from them
+
