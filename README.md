@@ -6,7 +6,12 @@ TECHNICAL:
 #SQL #Python #BigQuery #Kafka #Google Cloud Platform #Tableau #Spark
 #ETL - Matillion,SSIS
 #Recent Tools - Jenkins,Github,Jira,DataDog,Lucid Chart
-# ML Libraries 
+#ML Libraries
+
+Contact
+
+[LinkedIn](https://www.linkedin.com/pub/senthilraj-srirangan/15/102/482)
+
 
 Portfolio
 
