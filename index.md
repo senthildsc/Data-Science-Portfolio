@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+About
 
-You can use the [editor on GitHub](https://github.com/senthildsc/Senthilraj-Srirangan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Data Professional working as Sr.Data Engineering at The Home Depot Quote Center. I'm also a graduate student at Bellevue University pursuing my Masters in Data Science. I have good experience in building data pipelines and Data architecture. I have a good understanding of the Retail Domain. Continuous Learning is my added strength.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+----------------------------------------------------------------------------------------
 
-### Markdown
+Contact
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[LinkedIn](https://www.linkedin.com/pub/senthilraj-srirangan/15/102/482)
 
-```markdown
-Syntax highlighted code block
+----------------------------------------------------------------------------------------
 
-# Header 1
-## Header 2
-### Header 3
+Projects
 
-- Bulleted
-- List
+[WeatherForeCast API](https://github.com/senthildsc/Weather-Forecast-from-OpenWeather)
 
-1. Numbered
-2. List
+Access current weather data for any location including over 200,000 cities
 
-**Bold** and _Italic_ and `Code` text
+----------------------------------------------------------------------------------------
 
-[Link](url) and ![Image](src)
-```
+[Predict baby Birth Weight](https://github.com/senthildsc/PredictBaby-Birth-Weight.git)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Problems with this practice have recently been brought to light. We 
+explore whether data available at birth can be used to predict 
+estimated fetal weight using linear and quantile regression, random 
+forests, Bayesian additive regression trees, and generalized boosted
+models.
+The domain of childbirth and factors influencing childbirth and the
+weight of a newborn is very vast. Through past studies, it has been 
+observed that the factors which affect the childbirth range from 
+biological characteristics like the baby's sex, race, age of mother 
+and father, weight gained by the mother during pregnancy to 
+behavioral characteristics like smoking and drinking habits of the 
+mother, the education and living conditions of the parents.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/senthildsc/Senthilraj-Srirangan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+----------------------------------------------------------------------------------------
 
-### Support or Contact
+[Hotel Recommendation](https://github.com/senthildsc/Hotel-Recommendation.git)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+All online travel agencies are scrambling to meet the Artificial Intelligence driven personalization standard set by its competitors.
+In addition, the world of online travel has become a highly competitive space where brands try to capture our attention (and wallet) with recommending,
+comparing, matching, and sharing. For this assignment, we aim to create the optimal hotel recommendations for Expedia’s users that are searching for a hotel to book.
+Predict which “hotel cluster” the user is likely to book, given his (or her) search details.
+
+------------------------------------------------------------------------------------------
+
+[Customer Behavior](https://github.com/senthildsc/Customer-Behavior.git)
+
+This article discusses our analysis of customer behavior data provided for an E-commerce site. We begin by discussing our motivations for this project. We will then discuss the data set and its features. Then our initial data exploration and feature engineering. Finally we will describe the models we used to predict if a site visitor will make a purchase or will not, the results of such models, and the insights we gathered from them
+
