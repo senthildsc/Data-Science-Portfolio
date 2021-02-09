@@ -51,7 +51,7 @@ This article discusses our analysis of customer behavior data provided for an E-
 
 ------------------------------------------------------------------------------------------
 
-[Bank Fail](https://github.com/senthildsc/predict-bank-failure.git)
+[Bank_Fail](https://github.com/senthildsc/predict-bank-failure.git)
 
 The most common cause of bank failure occurs when the value of the bank's assets falls to below the market value of the bank's liabilities, which are the bank's obligations to creditors and depositors. This might happen because the bank loses too much on its investments.
 This project provides the some of bank failure reason.
