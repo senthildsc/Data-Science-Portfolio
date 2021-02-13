@@ -7,9 +7,12 @@ TECHNICAL:
 
 #SQL #Python #BigQuery #Kafka #Google Cloud Platform #Tableau #Spark #Airflow
 
+
 #ETL - Matillion,SSIS
 
+
 #Recent Tools - Jenkins,Github,Jira,DataDog,Lucid Chart
+
 
 # ML Libraries 
 
