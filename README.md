@@ -3,6 +3,7 @@ About
 I am a Data Professional working as Sr.Data Engineering at The Home Depot Quote Center. I'm also a graduate student at Bellevue University pursuing my Masters in Data Science. I have good experience in building data pipelines and Data architecture. I have a good understanding of the Retail Domain. Continuous Learning is my added strength.
 
 TECHNICAL:
+
 #SQL #Python #BigQuery #Kafka #Google Cloud Platform #Tableau #Spark #Airflow
 #ETL - Matillion,SSIS
 #Recent Tools - Jenkins,Github,Jira,DataDog,Lucid Chart
@@ -13,6 +14,7 @@ TECHNICAL:
 Contact
 
 [LinkedIn](https://www.linkedin.com/pub/senthilraj-srirangan/15/102/482)
+
 [GitHub](https://github.com/senthildsc)
 
 ----------------------------------------------------------------------------------------
