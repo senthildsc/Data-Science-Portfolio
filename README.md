@@ -1,4 +1,3 @@
-![my image](C:\Users\Senthil\OneDrive\Desktop\1598329550156.jpg)
 
 
 # About
