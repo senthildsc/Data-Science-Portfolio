@@ -4,6 +4,7 @@ I am a Data Professional working as Sr.Data Engineering at The Home Depot Quote 
 
 TECHNICAL:
 
+
 #SQL #Python #BigQuery #Kafka #Google Cloud Platform #Tableau #Spark #Airflow
 #ETL - Matillion,SSIS
 #Recent Tools - Jenkins,Github,Jira,DataDog,Lucid Chart
@@ -14,6 +15,7 @@ TECHNICAL:
 Contact
 
 [LinkedIn](https://www.linkedin.com/pub/senthilraj-srirangan/15/102/482)
+
 
 [GitHub](https://github.com/senthildsc)
 
