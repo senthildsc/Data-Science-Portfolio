@@ -47,13 +47,9 @@ Predict which “hotel cluster” the user is likely to book, given his (or her)
 
 [Customer Behavior](https://github.com/senthildsc/Customer-Behavior.git)
 
-This article discusses our analysis of customer behavior data provided for an E-commerce site. We begin by discussing our motivations for this project. We will then discuss the data set and its features. Then our initial data exploration and feature engineering. Finally we will describe the models we used to predict if a site visitor will make a purchase or will not, the results of such models, and the insights we gathered from them
+This article discusses our analysis of customer behavior data provided for an E-commerce site. We begin by discussing our motivations for this project. We will then discuss the data set and its features. Then our initial data exploration and feature engineering. Finally we will describe the models we used to predict if a site visitor will make a purchase or will not, the results of such models, and the insights we gathered from them.
 
-------------------------------------------------------------------------------------------
 
-[Predict Bank Fail](https://github.com/senthildsc/predict-bank-failure.git)
 
-The most common cause of bank failure occurs when the value of the bank's assets falls to below the market value of the bank's liabilities, which are the bank's obligations to creditors and depositors. This might happen because the bank loses too much on its investments.
-This project provides the some of bank failure reason.
 
 
