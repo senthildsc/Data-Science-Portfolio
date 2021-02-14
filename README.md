@@ -3,7 +3,7 @@
 
 # About
 
-I am a Data Professional working as Sr.Data Engineering at The Home Depot Quote Center. I'm also a graduate student at Bellevue University pursuing my Masters in Data Science completing by March 2021. I have good experience in building data pipelines and Data architecture. I have a good understanding of the Retail Domain. Continuous Learning is my added strength.
+I am a Data Professional working as Sr.Data Engineering in a Retail Company in Vancouver,WA. I'm also a graduate student at Bellevue University pursuing my Masters in Data Science completing by March 2021. I have good experience in building data pipelines and Data architecture. I have a good understanding of the Retail Domain. Continuous Learning is my added strength.
 
 TECHNICAL:
 
@@ -20,6 +20,14 @@ TECHNICAL:
 #ML Libraries 
 
 ----------------------------------------------------------------------------------------
+
+# Education
+![image](https://user-images.githubusercontent.com/47956994/107885671-846d7f00-6eb0-11eb-927b-dcbd80aed6f5.png) . M.S in Data Science (Nov 2018 - March 2021)
+
+![image](https://user-images.githubusercontent.com/47956994/107885758-e1693500-6eb0-11eb-915f-db72b87ea5b7.png) - Bachelor of Mechanical Engineering (2000 - 2004)
+
+----------------------------------------------------------------------------------------
+
 
 # Contact
 
