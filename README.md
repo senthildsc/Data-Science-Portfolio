@@ -77,7 +77,11 @@ Finally we will describe the models we used to predict if a site visitor will ma
 
 The most common cause of bank failure occurs when the value of the bank's assets falls to below the market value of the bank's liabilities, which are the bank's obligations to creditors and depositors.This might happen because the bank loses too much on its investments. Although today's challenges are great, the four underlying reasons for bank failures have not changed from those of years' past, which are: An imbalance of risk versus return Failure to diversify, Offering products and services that management doesn't fully understand, and Poor management of risks.
 
+------------------------------------------------------------------------------------------
 
+[marketing campaign](https://github.com/senthildsc/marketing-campaign.git)
+
+The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be subscribed or not.The data is related with direct marketing campaigns of a Portuguese banking institution.The classification goal is to predict whether the client will subscribe (1/0) to a term deposit (variable y).
 
 
 
