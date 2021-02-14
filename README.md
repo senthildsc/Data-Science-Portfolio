@@ -22,7 +22,7 @@ TECHNICAL:
 ----------------------------------------------------------------------------------------
 
 # Education
-![image](https://user-images.githubusercontent.com/47956994/107885671-846d7f00-6eb0-11eb-927b-dcbd80aed6f5.png) . M.S in Data Science (Nov 2018 - March 2021)
+![image](https://user-images.githubusercontent.com/47956994/107885671-846d7f00-6eb0-11eb-927b-dcbd80aed6f5.png) - M.S in Data Science (Nov 2018 - March 2021)
 
 ![image](https://user-images.githubusercontent.com/47956994/107885758-e1693500-6eb0-11eb-915f-db72b87ea5b7.png) - Bachelor of Mechanical Engineering (2000 - 2004)
 
