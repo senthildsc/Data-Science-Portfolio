@@ -92,4 +92,6 @@ The most common cause of bank failure occurs when the value of the bank's assets
 The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be subscribed or not.The data is related with direct marketing campaigns of a Portuguese banking institution.The classification goal is to predict whether the client will subscribe (1/0) to a term deposit (variable y).
 
 
+[Pull Data From twitter Public API](https://github.com/senthildsc/Twitter-API.git)
 
+In this project I will be pulling data from public Twitter API after creating account. You need your account to get approved from the twitter team and need to give information about why you need to pull data.
