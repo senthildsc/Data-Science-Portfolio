@@ -87,7 +87,7 @@ The most common cause of bank failure occurs when the value of the bank's assets
 
 ------------------------------------------------------------------------------------------
 
-[marketing campaign](https://github.com/senthildsc/marketing-campaign.git)
+[Marketing Campaign](https://github.com/senthildsc/marketing-campaign.git)
 
 The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be subscribed or not.The data is related with direct marketing campaigns of a Portuguese banking institution.The classification goal is to predict whether the client will subscribe (1/0) to a term deposit (variable y).
 
